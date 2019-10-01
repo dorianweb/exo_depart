@@ -1,0 +1,19 @@
+header {
+  background-color: beige;
+display: block;
+  margin: 0;
+  padding-bottom: 10px;
+
+}
+header>h2{
+  font-size: 125%;
+  padding-left: 10%;
+  margin-top: 0;
+}
+h1 {
+
+}
+
+body{
+  margin: 0;
+}
